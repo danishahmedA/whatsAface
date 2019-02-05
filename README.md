@@ -1,4 +1,3 @@
-<img scr="68747470733a2f2f6c61726176656c2e636f6d2f6173736574732f696d672f636f6d706f6e656e74732f6c6f676f2d6c61726176656c2e737667.svg">
 <h2>Learning Laravel</h2>
 
 Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework, making it a breeze to get started learning the framework.
