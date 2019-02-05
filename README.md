@@ -5,7 +5,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 <a href="https://laravel.com/docs/5.7/container">Powerful dependency injection container.</a><br>
 Expressive, intuitive <a href="https://laravel.com/docs/5.7/eloquent">database ORM.</a><br>
 <a href="https://laravel.com/docs/5.7/queues">Robust background job processing.</a><br>
-<a g=href="https://laravel.com/docs/5.7/broadcasting">Real-time event broadcasting.</a><br>
+<a =href="https://laravel.com/docs/5.7/broadcasting">Real-time event broadcasting.</a><br><br>
+
+
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
 
 
