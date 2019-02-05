@@ -20,4 +20,8 @@ Laravel has the most extensive and thorough <a href="https://laravel.com/">docum
 
 If you're not in the mood to read, Laracasts contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
-
+<ul>
+<li>asterisk 1</li>
+<li>asterisk 2</li>
+<li>asterisk 3</li>
+</ul>
